@@ -1,0 +1,48 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding-top: 12px;
+}
+
+body {
+    background-color: white;
+    font-family: "Rubik", sans-serif;
+    color: black;
+    margin: 0;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+    padding: 1em 0;
+    overflow: auto;
+}
+
+img {
+    width: 350px;
+    padding-right: 20px;
+}
+
+.okinawa {
+
+    margin-left: 4%;
+    display: flex;
+    margin-right: 5%;
+    font-size: 20px;
+    word-wrap: break-word;
+}
+
+.vitoria {
+
+    font-size: 20px;
+    margin-left: 4%;
+    padding-right: 10px;
+    display: flex;
+    word-wrap: break-word;
+}
