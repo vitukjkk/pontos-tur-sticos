@@ -30,7 +30,6 @@ img {
 }
 
 .okinawa {
-
     margin-left: 4%;
     display: flex;
     margin-right: 5%;
@@ -39,10 +38,17 @@ img {
 }
 
 .vitoria {
-
     font-size: 20px;
     margin-left: 4%;
     padding-right: 10px;
     display: flex;
+    word-wrap: break-word;
+}
+
+.la {
+    margin-left: 4%;
+    display: flex;
+    margin-right: 5%;
+    font-size: 20px;
     word-wrap: break-word;
 }
